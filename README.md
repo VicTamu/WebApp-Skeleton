@@ -207,8 +207,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/VicTamu/WebApp-Skeleton/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/VicTamu/WebApp-Skeleton/discussions)
 - **Documentation**: [Project Wiki](https://github.com/VicTamu/WebApp-Skeleton/wiki)
 
 ---
